@@ -5,7 +5,7 @@ using namespace std;
 //#define DECIMAL
 void main()
 {
-	setlocale(LC_ALL, "RU");
+	setlocale(LC_ALL, "Rus");
 #if defined DECIMAL
 	int decimal;
 	cout << "Введите десятичное число: "; cin >> decimal;
