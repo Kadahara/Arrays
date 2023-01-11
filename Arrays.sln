@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrrays.vcxproj", "{D7FC36E5-AC5D-4718-9384-2D461FE8E764}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Numerix", "Numerix\Numerix.vcxproj", "{632E34BE-72E6-4AC9-B122-5FA905A2822B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D7FC36E5-AC5D-4718-9384-2D461FE8E764}.Release|x64.Build.0 = Release|x64
 		{D7FC36E5-AC5D-4718-9384-2D461FE8E764}.Release|x86.ActiveCfg = Release|Win32
 		{D7FC36E5-AC5D-4718-9384-2D461FE8E764}.Release|x86.Build.0 = Release|Win32
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Debug|x64.ActiveCfg = Debug|x64
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Debug|x64.Build.0 = Debug|x64
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Debug|x86.ActiveCfg = Debug|Win32
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Debug|x86.Build.0 = Debug|Win32
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Release|x64.ActiveCfg = Release|x64
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Release|x64.Build.0 = Release|x64
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Release|x86.ActiveCfg = Release|Win32
+		{632E34BE-72E6-4AC9-B122-5FA905A2822B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
